@@ -1,0 +1,5 @@
+**/*.d.ts
+**/package-lock.json
+**/tsconfig.json
+**/.vscode
+**/.git
